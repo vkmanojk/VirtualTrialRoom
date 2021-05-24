@@ -1,4 +1,4 @@
-# [Fashion Fiesta](https://docs.google.com/presentation/d/146ZfU9597FB8AG4J9jFxlkXjaEJga5XEbI_EbsG0Jxw/present#slide=id.gc6f80d1ff_0_0)
+# Fashion Fiesta
 ### An e-commerce service with additional try-on facility where the user can witness how he/she would look if he/she wears the selected apparel.
 
 <p float="left">
@@ -34,7 +34,7 @@ conda create --name fashionfiesta python=2.7 pip
 source activate fashionfiesta
 pip install -r requirements.txt
 ```
-Additionally, `setup.sh` will clone and setup auxiliary repositories that do the [Human parsing](https://github.com/vkmanojk/HumanParsing.git), [Pose estimation](https://github.com/vkmanojk/Pose-Estimation.git), and [Clothing style transfer](https://github.com/vkmanojk/VirtualTrialRoom.git) steps. This process will download models for each of the tasks.
+Additionally, `setup.sh` will clone and setup auxiliary repositories that do the [Human parsing](https://github.com/vkmanojk/HumanParsing.git), [Pose estimation](https://github.com/vkmanojk/Pose-Estimation.git), and [Clothing style transfer](https://github.com/vkmanojk/Fashion-Fiesta.git) steps. This process will download models for each of the tasks.
 
 ### Test Example
 
