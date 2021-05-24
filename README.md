@@ -1,4 +1,4 @@
-# Fashion Fiesta
+# [VIRTUAL TRIAL ROOM]
 ### An e-commerce service with additional try-on facility where the user can witness how he/she would look if he/she wears the selected apparel.
 
 <p float="left">
